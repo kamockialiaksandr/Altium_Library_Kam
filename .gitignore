@@ -11,8 +11,10 @@ __Previews
 *.log
 *.htm
 *.$$$
+*.STEP
 
 #useless dirs
+3D/
 Project\ Outputs
 Project\ Logs
 Project Outputs for*
