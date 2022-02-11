@@ -1,0 +1,87 @@
+Accelerometers
+	*Accelerometers.SchLib
+Amplifier_ICs
+	--Current_Sense_Amplifiers
+		*Current_Sense_Amplifiers.SchLib
+Audio
+	*Audio.SchLib
+Battery Protection
+	*Battery_Protection.SchLib
+Buttons
+	*Buttons.SchLib
+Circuit_Protection
+	--ESD_Suppressors_TVS_Diodes
+		*ESD_Suppressors_TVS_Diodes.SchLib
+Comparators
+	*Comparators.SchLib
+Connectors
+	*Connectors.SchLib
+Data_Converter_ICs
+	--ADC
+		*ADC.SchLib
+Diodes
+	*Diodes.SchLib
+ESD Protectors
+	*ESD_Protectors.SchLib
+Espressif
+	*Espressif.SchLib
+Fuse
+	*Fuse.SchLib
+Interface_ICs
+	--Digital_isolators
+		*Digital_isolators.SchLib
+LED
+	*LED.SchLib
+Logic_ICs
+	--Buffers_and_Line_Drivers
+		*Buffers_and_Line_Drivers.SchLib
+	--Bus_Transceivers
+		*Bus_Transceivers.SchLib
+	--Counter_Shift_Registers
+		*Counter_Shift_Registers.SchLib
+Other
+	*Other.SchLib
+Passive_Components
+	--Audio_And_Signal_Transformers
+		*Audio_And_Signal_Transformers.SchLib
+	--Capacitors
+		*Capacitors.SchLib
+	--Ferrite_beads
+		*Ferrite_beads.SchLib
+	--Inductance
+		*Inductance.SchLib
+	--Mounting_holes
+		*Mounting_holes.SchLib
+	--Resistors
+		*Resistors.SchLib
+Photocoupler
+	*Photocoupler.SchLib
+Power
+	*Power.SchLib
+Power_Management_ICs
+	--Battery_Management
+		*Battery_Management.SchLib
+	--Current and Power Monitors and Regulators
+		*Current_and_Power_Monitors_and_Regulators.SchLib
+	--Fuel_Gauge
+		*Fuel_Gauge.SchLib
+	--LDO
+		*LDO.SchLib
+	--Supervisory_Circuits
+		*Supervisory_Circuits.SchLib
+Programmable Temperature Switch
+	*Prog_Temp_Switch.SchLib
+RFID
+	*RFID.SchLib
+RGB and Gesture Sensors
+	*RGBandGestureSensors.SchLib
+Switch
+	*Switch.SchLib
+Switch ICs
+	*Switch_ICs.SchLib
+Switching_Voltage_Regulators
+	*Switching_Voltage_Regulators.SchLib
+Transistors
+	*Transistors.SchLib
+UART-COM-port
+	*UART-COM.SchLib
