@@ -28,8 +28,7 @@ Espressif
 Fuse
 	*Fuse.SchLib
 Interface_ICs
-	--Digital_isolators
-		*Digital_isolators.SchLib
+	*Interface_ICs.SchLib
 LED
 	*LED.SchLib
 Logic_ICs
@@ -75,6 +74,8 @@ RFID
 	*RFID.SchLib
 RGB and Gesture Sensors
 	*RGBandGestureSensors.SchLib
+Sensors
+	*Sensors.SchLib
 Switch
 	*Switch.SchLib
 Switch ICs
