@@ -53,8 +53,8 @@ Passive_Components
 		*Mounting_holes.SchLib
 	--Resistors
 		*Resistors.SchLib
-Photocoupler
-	*Photocoupler.SchLib
+Optoelectronics
+	*Optoelectronics.SchLib
 Power
 	*Power.SchLib
 Power_Management_ICs
